@@ -2,4 +2,4 @@
 
 ### Code and dataset are coming soon.
 ## Pipeline
-![]([Figs/pipeline.jpg](https://github.com/megvii-research/LBHomo/blob/main/Figs/Pipeline.jpg))
+![](https://github.com/megvii-research/LBHomo/blob/main/Figs/Pipeline.jpg)
