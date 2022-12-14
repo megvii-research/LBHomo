@@ -2,4 +2,4 @@
 
 ### Code and dataset are coming soon.
 ## Pipeline
-![pipeline](Figs/pipeline.jpg)
+[](Figs/pipeline.jpg)
