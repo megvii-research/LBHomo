@@ -25,7 +25,8 @@ Please refer to [Content-Aware Unsupervised Deep Homography Estimation.](https:
 
 - Run "video2img.py"
 ```
-Be sure to scale the image to (640, 360) since the point coordinate system is based on the (640, 360).e.g. img = cv2.imresize(img, (640, 360))
+Be sure to scale the image to (640, 360) since the point coordinate system is based on the (640, 360).
+e.g. img = cv2.imresize(img, (640, 360))
 ```
 - Using the images in "train.txt" and "test.txt" for training and evaluation, the manually labeled evaluation files can be download from: [[GoogleDriver]](https://drive.google.com/drive/folders/1Fwe0TnaKB7FudJu_PLcsq8765WEs7DAG?usp=sharing), [[BaiduYun]](https://pan.baidu.com/s/1xd6Q9P94lSE7021yanIALQ)(key:i721).
 ## Pre-trained model
