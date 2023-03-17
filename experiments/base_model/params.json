@@ -1,0 +1,29 @@
+{
+    "project_name": "LBHomo",
+    "data_dir": "/data/LBHomo_dataset",
+    "dataset_type": "basic",
+    "transform_type": "basic",
+    "net_type": "basic",
+    "eval_type": "test",
+    "major_metric": "MSE_avg",
+    "loss_type": "semi-supervise",
+    "save_mode": "local",
+    "learning_rate": 1e-4,
+    "gamma": 0.8,
+    "train_batch_size": 24,
+    "eval_batch_size": 1,
+    "num_epochs": 20,
+    "eval_freq": 1000,
+    "save_summary_steps": 100,
+    "num_workers": 4,
+    "cpu": 24,
+    "memory": 40960,
+    "gpu": 4,
+
+    "random_homo": 0.25,
+    "crop_size": [320, 480],
+
+    "rho": 16,
+    "weight_fil": [0.32, 0.08, 0.02, 0.01]
+
+}
