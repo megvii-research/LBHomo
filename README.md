@@ -1,7 +1,7 @@
 
 # [AAAI 2023] Semi-supervised Deep Large-baseline Homography Estimation with Progressive Equivalence Constraint. [[Paper]](https://arxiv.org/abs/2212.02763).
 <h4 align="center">Hai Jiang<sup>1,2</sup>, Haipeng Li<sup>2,3</sup>, Yuhang Lu<sup>4</sup>, Songchen Han<sup>1</sup>, Shuaicheng Liu<sup>2,3</sup></center>
-<h4 align="center">1.Sichuan University, 2.University of Electronic Science and Technology of Chin, 
+<h4 align="center">1.Sichuan University, 2.University of Electronic Science and Technology of China, 
 <h4 align="center">3.Megvii Technology, 4.Univesity of South Carolina</center></center>
 
 ## Presentation video:  
