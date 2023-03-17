@@ -5,7 +5,7 @@
 <h4 align="center">3.Megvii Technology, 4.Univesity of South Carolina</center></center>
 
 ## Presentation video:  
-[Youtube](https://www.youtube.com/watch?v=-ktR2mwq5H4) and [Bilibili](https://www.bilibili.com/video/BV13Y41117K3/?vd_source=225fbd2f43ab4ac27f3ec5e9f87dd029)
+[[Youtube]](https://www.youtube.com/watch?v=-ktR2mwq5H4) and [[Bilibili]](https://www.bilibili.com/video/BV13Y41117K3/?vd_source=225fbd2f43ab4ac27f3ec5e9f87dd029)
 ## Pipeline
 ![](https://github.com/megvii-research/LBHomo/blob/main/Figs/Pipeline.jpg)
 ## Dependencies
