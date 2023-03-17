@@ -10,6 +10,12 @@
 ```
 pip install -r requirements.txt
 ````
+- This repo includes GOCor as git submodule. You need to pull submodules with
+```
+git submodule update --init --recursive
+git submodule update --recursive --remote
+```
+
 ## Download the raw dataset
 Please refer to [Content-Aware Unsupervised Deep Homography Estimation.](https://github.com/JirongZhang/DeepHomography).
 
