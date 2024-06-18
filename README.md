@@ -38,7 +38,7 @@ The models provided below are the retrained version(with minor differences in qu
 
 | model    | RE | LT | LL | LF | SF | Avg | Model |
 | --------- | ----------- | ------------ |------------ |------------ |------------ |------------ |------------ |
-| Pre-trained | 1.66 | 5.49 | 4.11 | 7.57 | 6.95  | 5.16  |Baidu [Google] 
+| Pre-trained | 1.66 | 5.49 | 4.11 | 7.57 | 6.95  | 5.16  |[[Baidu]](https://pan.baidu.com/s/1QZ-NJ4WMK7dEZb63c3Q2vQ)(code: 0jfu) [[Google]](https://drive.google.com/file/d/1SQWOYdjsDt9U3jMSNyLF2oDqB4w9aX1p/view?usp=sharing)
 ## How to train?
 You need to modify ```dataset/data_loader.py``` slightly for your environment, and then
 ```
